@@ -1,0 +1,10 @@
+@media screen and (min-width: 600px) {
+  .features{
+    background: cornflowerblue;
+  }  
+  }
+@media screen and (max-width: 800px) {
+.features{
+  background: red;
+}  
+}
